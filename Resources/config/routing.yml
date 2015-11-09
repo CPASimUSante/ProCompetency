@@ -1,0 +1,4 @@
+procompetency_controller:
+    resource: "@CPASimUSanteProCompetencyBundle/Controller/ProCompetencyController.php"
+    type: annotation
+    prefix: /
